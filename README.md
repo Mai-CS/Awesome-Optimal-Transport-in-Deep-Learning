@@ -176,6 +176,7 @@ TODO:
 * [NeurIPS 2023] Performance Scaling via Optimal Transport: Enabling Data Selection from Partially Revealed Sources[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/c142c14699223f7417cad706fd6f652e-Paper-Conference.pdf)[[code]](https://github.com/ruoxi-jia-group/projektor)
 * [NeurIPS 2022] Adaptive Distribution Calibration for Few-Shot Learning with Hierarchical Optimal Transport[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/2e19dab94882bc95ed094c4399cfda02-Paper-Conference.pdf)[[code]](https://github.com/DandanGuo1993/Adaptive-Distribution-Calibration-for-Few-Shot-Learning-with-Hierarchical-Optimal-Transport)
 * [TMLR 2023] Transport with Support: Data-Conditional Diffusion Bridges[[pdf]](https://openreview.net/pdf?id=Mbc58EzF5q)
+* [MICCAI 2025] MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering [[pdf]](https://www.arxiv.org/abs/2506.22900) [[code]](https://github.com/BioMedIA-MBZUAI/MOTOR)
 
 ## Graph Learning
 * [NeurIPS 2022] Template based Graph Neural Network with Optimal Transport Distances[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4d3525bc60ba1adc72336c0392d3d902-Paper-Conference.pdf)
